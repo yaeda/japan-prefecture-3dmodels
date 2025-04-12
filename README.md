@@ -13,9 +13,9 @@
 
 ## 都道府県モデル
 
-- オリジナルモデル（STL）
+- [オリジナルモデル（STL）](/releases/download/v1.0/original.zip)
   - オリジナルはファイル名に文字化けがあったので、ファイル名のみ変更しています。
-- 1.0mmの厚みを追加したモデル（STL）
+- [1.0mmの厚みを追加したモデル（STL）](/releases/download/v1.0/thicken.zip)
 
 ## スクリプト
 
